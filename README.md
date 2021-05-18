@@ -4,4 +4,5 @@ Desarrolladora web Frontend de HTML, CSS, SASS y Javascript con especialización
 
 
 · LinkedIn: https://www.linkedin.com/in/mayte-lozano/
+
 · Contacto:  mailozano5@gmail.com
